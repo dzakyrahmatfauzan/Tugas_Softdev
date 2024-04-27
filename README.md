@@ -17,7 +17,7 @@ Below is a list of available endpoints in this API along with their descriptions
 ### 1. Welcome Endpoint
 
 - Endpoint: /api
-- Method: GET
+- Method: `GET`
 - Description: Returns a welcome message.
 - Example Usage: GET http://localhost:3001/api
 - Example Response:
