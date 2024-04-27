@@ -8,7 +8,7 @@ To get started with using this API, follow the instructions below.
 
 ### Base URL
 
-The base URL for this API is http://localhost:3001.
+The base URL for this API is `http://localhost:3001.`
 
 ## Endpoints
 
